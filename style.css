@@ -151,6 +151,7 @@ nav{
        width: 100vw;
        font-size: 5vw;
        padding: 4vw;
+       margin-left: 12vw;
     }
     .left .btn{
         flex-direction: column;
