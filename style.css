@@ -159,6 +159,10 @@ nav{
         font-size: 4.5vw;
         padding: 5vw 16vw;
     }
+    .right{
+        width: 100%;
+        height: 50vh;
+    }
 }
 
 
